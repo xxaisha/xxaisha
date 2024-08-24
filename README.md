@@ -4,9 +4,9 @@
     </h1>
 </div>
 <div align="center">
-    ## 🌟 About Me 🌟
-
-Hello there! I'm a passionate **Instrumentation Physics** undergraduate with a love for all things analytical and research-oriented. 🧪✨
+    <h1>🌟 About Me 🌟</h1>
+    <p>Hello there! I'm a passionate **Instrumentation Physics** undergraduate with a love for all things analytical and research-oriented. 🧪✨</p>
+</div>
 
 🔍 **What I Do:**
 - Dive deep into data and physics phenomena.
@@ -20,7 +20,6 @@ Hello there! I'm a passionate **Instrumentation Physics** undergraduate with a l
 
 Let's connect and collaborate on exciting projects! 🚀
 
-</div>
 
 <div align="center">
     <h2>Connect with Me 🚀</h2>
