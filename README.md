@@ -33,7 +33,15 @@ Let's connect and collaborate on exciting projects! 🚀
     </a>
 </div>
 
+## 👋Programming Language
+
+I'm a passionate data enthusiast with experience in a variety of programming languages. Here are a few technologies I've been working with:
+
 <div align="center">
-    <img src="https://raw.githubusercontent.com/xxaisha/xxaisha/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <p><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></p>
+    <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></p>    
+    <p><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></p>
 </div>
+
+
 
