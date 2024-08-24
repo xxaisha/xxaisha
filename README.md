@@ -4,9 +4,8 @@
     </h1>
 </div>
 
-##🌟 About Me 🌟
-
 <div align="center">
+    <h1>🌟 About Me 🌟</h1>
     <p>Hello there! I'm a passionate Instrumentation Physics undergraduate with a love for all things analytical and research-oriented. 🧪✨</p>
 </div>
 
