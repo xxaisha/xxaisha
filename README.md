@@ -6,13 +6,14 @@
 
 <div align="center">
     <h1>🌟 About Me 🌟</h1>
-    <p>Hello there! I'm a passionate Instrumentation Physics undergraduate with a love for all things analytical and research-oriented. 🧪✨</p>
+    <p>Hello there! I'm a Instrumentation Physics undergraduate with a love for all things research-oriented. 🧪✨</p>
 </div>
 
 🔍 **What I Do:**
 - Dive deep into data and physics phenomena.
 - Tackle complex problems with a keen eye for detail.
 - Juggle tasks and deadlines like a pro—prioritizing and organizing is my forte! 📅🔧
+- URRAAA
 
 🌱 **Skills:**
 - **Analytical Skills:** Unraveling intricate details and deriving insights.
@@ -44,7 +45,6 @@ Let's connect and collaborate on exciting projects! 🚀
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/YAML-0A0A0A?style=for-the-badge" alt="YAML"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </div>
 
 </div>
