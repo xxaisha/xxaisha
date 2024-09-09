@@ -16,9 +16,9 @@
 - URRAAA
 
 🌱 **Skills:**
-- **Analytical Skills:** Unraveling intricate details and deriving insights.
+- **Analytical Skills:** I pay a LOT OF attentions in details and sometimes give an insights. eheh
 - **Research Enthusiast:** Always curious and eager to explore new ideas.
-- **Team Player & Independent Worker:** Whether in a group or solo, I bring my best to the table. 🤝💡
+- **Team Player & Independent Worker:** Whether in a group or solo, I bring my best to the table. SKKRTTT 🤝💡
 
 Let's connect and collaborate on exciting projects! 🚀
 
