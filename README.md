@@ -6,19 +6,18 @@
 
 <div align="center">
     <h1>🌟 About Me 🌟</h1>
-    <p>Hello there! I'm a Instrumentation Physics undergraduate with a love for all things research-oriented. 🧪✨</p>
 </div>
 
 🔍 **What I Do:**
 - Dive deep into data and physics phenomena.
-- Tackle complex problems with a keen eye for detail.
-- Juggle tasks and deadlines like a pro—prioritizing and organizing is my forte! 📅🔧
-- URRAAA
+- Tackle problems with a keen eye for detail.
+- Juggle tasks and deadlines like a pro—prioritizing and organizing.
+- Just chilling out
 
 🌱 **Skills:**
-- **Analytical Skills:** I pay a LOT OF attentions in details and sometimes give an insights. eheh
-- **Research Enthusiast:** Always curious and eager to explore new ideas.
-- **Team Player & Independent Worker:** Whether in a group or solo, I bring my best to the table. SKKRTTT 🤝💡
+- I pay a LOT OF attentions in details and sometimes give an insights. Kind of.
+- Always curious to explore new ideas.
+- Whether in a group or solo, I bring my best to the table.
 
 Let's connect and collaborate on exciting projects! 🚀
 
