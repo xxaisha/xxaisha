@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <h1>🌟 About Me 🌟</h1>
+    <h1> About Me </h1>
 </div>
 
 **What I (like to) Do (kind of):**
@@ -22,7 +22,7 @@ Let's connect and collaborate on exciting projects!
 
 
 <div align="center">
-    <h2> 🌐Connect with Me</h2>
+    <h2> Connect with Me</h2>
     <p>Feel free to reach out to me on the following platforms:</p>
     <a href="https://www.linkedin.com/in/aisahx/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -32,7 +32,7 @@ Let's connect and collaborate on exciting projects!
     </a>
 </div>
 
-<h2 align="center" class="section-heading">💻 Programming Languages</h2>
+<h2 align="center" class="section-heading"> Programming Languages</h2>
 <p> I'm a passionate data enthusiast with experience in a variety of programming languages. Here are a few technologies I've been working with:</p>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -43,8 +43,8 @@ Let's connect and collaborate on exciting projects!
 </div>
 
 </div>
-<h2 align="center" class="section-heading">☁️ Cloud Technologies</h2>
-<p>In the cloud computing, I am proficient in using cloud platforms and technologies to architect, deploy, and manage scalable, highly available, and fault-tolerant systems. Here's a glance at the cloud technologies I specialize in:</p>
+<h2 align="center" class="section-heading">☁ Cloud Technologies</h2>
+<p>In the cloud computing, I am (trying to be) proficient in using cloud platforms and technologies to architect, deploy, and manage scalable, highly available, and fault-tolerant systems. Here's a glance at the cloud technologies I specialize in:</p>
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
@@ -52,4 +52,5 @@ Let's connect and collaborate on exciting projects!
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
 
+peace, love, and gawl \m/
 
