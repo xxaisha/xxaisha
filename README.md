@@ -8,18 +8,15 @@
     <h1>🌟 About Me 🌟</h1>
 </div>
 
-🔍 **What I Do:**
-- Dive deep into data and physics phenomena.
-- Tackle problems with a keen eye for detail.
+**What I (like to) Do (kind of):**
 - Juggle tasks and deadlines like a pro—prioritizing and organizing.
 - Just chilling out
 
-🌱 **Skills:**
-- I pay a LOT OF attentions in details and sometimes give an insights. Kind of.
-- Always curious to explore new ideas.
-- Whether in a group or solo, I bring my best to the table.
+**Skills:**
+- I pay a LOT OF attentions in details. Kind of.
+- Always curious to explore new ideas (especially when it comes to "1-hour-left" project deadlines.
 
-Let's connect and collaborate on exciting projects! 🚀
+Let's connect and collaborate on exciting projects!
 
 <div align="center">
 
