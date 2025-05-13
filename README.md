@@ -9,7 +9,7 @@
 </div>
 
 **What I (like to) Do (kind of):**
-- Juggle tasks and deadlines like a pro—prioritizing and organizing.
+- Juggle tasks and deadlines like a pro prioritizing and organizing.
 - Just chilling out
 
 **Skills:**
