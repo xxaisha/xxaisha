@@ -8,7 +8,7 @@
     <h1> About Me </h1>
 </div>
 Since you've gotten here anyway, I might as well tell you a little about myself. You can call me Aisah (for long and for short, nfrn actually, for real) I am an Indonesian, of Sundanese+Javanese+Jakartans descent to be more precise. But growing up among Javanese resulted in a rather multicultural background and identity, so I choose to call myself simply an Indonesian. 
-\n
+
 **What I (like to) Do (kind of):**
 - Juggle tasks and deadlines like a pro prioritizing and organizing.
 - Just chilling out
